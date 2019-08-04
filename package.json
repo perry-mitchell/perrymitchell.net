@@ -6,7 +6,8 @@
   "scripts": {
     "build": "run-s clean build:dirs build:html",
     "build:dirs": "mkdirp ./dist",
-    "build:html": "pug --path ./source --extension html --out ./dist source/index.pug",
+    "build:html": "pug --path ./source --extension html --out ./dist source/*.pug",
+    "dev": "nodemon --exec 'npm run build' --watch ./source",
     "clean": "rimraf ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +28,7 @@
   "private": true,
   "devDependencies": {
     "mkdirp": "^0.5.1",
+    "nodemon": "^1.19.1",
     "npm-run-all": "^4.1.3",
     "pug": "^2.0.3",
     "pug-cli": "^1.0.0-alpha6",
