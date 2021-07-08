@@ -11,6 +11,8 @@ tags:
 
 I've been expanding my range of server hardware at home for some years now - this accelerated after I moved to Finland. The market for used workstation and server hardware is fantastic in Europe - especially in Germany. Because of the huge range of cheap machines, I opted to buy a used Dell R720 rack server from ebay Germany and then proceeded to mount it in my new rack cabinet I'd purchased earlier.
 
+![Dell R720 mounted in my rack cabinet](dell-r720.jpg)
+
 The R720 is a fanstastic 2U beast of a server, and mine boasts dual 8-core (16 thread) Xeons with a massive 128GB of RAM. It's more than I need to run all of my VMs and projects, which is why I chose it (for future proofing). That, and it allowed me to house 8x 4TB HDDs in the front for easy access. I have a Synology with about 17TB usable in it, but I needed the extra space for VM workloads... Oh yeah :D
 
 All of this power crammed into this short 2U chassis comes at a price - it's cooling design. Don't get me wrong, it's _highly effective_ at cooling itself - the fans spin at absolutely mental speeds to push a ton of air through the case - but the noise level associated with the fans moving at these high speeds is prohibitively loud.

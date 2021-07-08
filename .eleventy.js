@@ -1,4 +1,5 @@
 const siteSettings = require('./src/globals/site.json');
+const pageAssetsPlugin = require('eleventy-plugin-page-assets');
 
 module.exports = (config) => {
   config.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
@@ -20,6 +21,11 @@ module.exports = (config) => {
       (post) => !post.data.draft
     )
   );
+
+  config.addPlugin(pageAssetsPlugin, {
+    mode: "parse",
+    postsMatching: "src/posts/*/*.md",
+  });
 
   return {
     pathPrefix: siteSettings.baseUrl,
