@@ -7,11 +7,11 @@ permalink: "{% if path %}{{ path | slug }}{% else %}{{'/post/'}}{{ title | slug 
 {% block body %}
     <p>{{url}}</p>
     <div>
-        <h2>{{ title }}</h2>
+        <h2 class="mb-6">{{ title }}</h2>
 
-        {% if excerpt %}
+        {# {% if excerpt %}
             <p class="excerpt">{{ excerpt }}</p>
-        {% endif %}
+        {% endif %} #}
 
         {% if tags %}
             <div class="mb-2">
