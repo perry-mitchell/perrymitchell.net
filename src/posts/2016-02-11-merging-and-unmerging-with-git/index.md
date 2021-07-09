@@ -2,7 +2,10 @@
 layout: post
 title: Merging and unmerging with Git
 excerpt: A colleague of mine found themselves in a bit of a mess recently when
-  they lost themselves in some a...
+  they lost themselves in some ambiguous commits and merges. When you spend days
+  o...
+slug: merging-and-unmerging-with-git
+permalink: article/merging-and-unmerging-with-git/index.html
 date: 2016-02-11
 updatedDate: 2016-02-11
 tags:

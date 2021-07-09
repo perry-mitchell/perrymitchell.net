@@ -2,7 +2,10 @@
 layout: post
 title: Why Friday deployments are a bad idea
 excerpt: One of the first things you learn as a developer, being a member of a
-  company, is that deployment on...
+  company, is that deployment on Fridays are just generally a bad idea. There's
+  no...
+slug: why-friday-deployments-are-a-bad-idea
+permalink: article/why-friday-deployments-are-a-bad-idea/index.html
 date: 2013-12-29
 updatedDate: 2013-12-29
 tags:

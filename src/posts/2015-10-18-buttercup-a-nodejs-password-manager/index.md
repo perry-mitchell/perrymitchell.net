@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Buttercup: A NodeJS password manager"
-excerpt: I've been using [KeePass](http://keepass.info/) as a password manager
-  for some time now. It has a lo...
+excerpt: I've been using KeePass as a password manager for some time now. It has
+  a lot of benefits; It's open-source, has free clients, and is widely used.
+  Unf...
+slug: buttercup-a-nodejs-password-manager
+permalink: article/buttercup-a-nodejs-password-manager/index.html
 date: 2015-10-18
 updatedDate: 2015-10-18
 tags:

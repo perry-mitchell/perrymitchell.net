@@ -2,7 +2,10 @@
 layout: post
 title: Detecting which mouse button was pressed
 excerpt: I recently completed a task that required dragging functionality on a
-  web element. The element had t...
+  web element. The element had to support dragging on the Y axis, using
+  JavaScript...
+slug: detecting-which-mouse-button-was-pressed
+permalink: article/detecting-which-mouse-button-was-pressed/index.html
 date: 2014-02-11
 updatedDate: 2014-02-11
 tags:

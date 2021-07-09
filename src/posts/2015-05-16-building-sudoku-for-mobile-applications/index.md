@@ -2,7 +2,10 @@
 layout: post
 title: Building Sudoku for mobile applications (Aivoterveydeksi!)
 excerpt: Sudoku is a fantastic grid-style puzzle game enjoyed universally on
-  many different mediums, from com...
+  many different mediums, from computers and mobile devices through to
+  newspapers an...
+slug: building-sudoku-for-mobile-applications
+permalink: article/building-sudoku-for-mobile-applications/index.html
 date: 2015-05-16
 updatedDate: 2015-05-16
 tags:

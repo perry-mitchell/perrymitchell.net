@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Better international communication and Kiosked's NYC office
-excerpt: "Kiosked now has offices all over the world, and I just spent the last
-  2 weeks in our New York branc..."
+excerpt: >-
+  Kiosked now has offices all over the world, and I just spent the last 2 weeks
+  in our New York branch.
+
+
+  Our company is expanding, and we're moving into...
+slug: better-international-communication-Kioskeds-NYC-office
+permalink: article/better-international-communication-Kioskeds-NYC-office/index.html
 date: 2016-03-08
 updatedDate: 2016-03-08
 tags:
   - post
-  - adtech
 ---
 
 *Kiosked now has offices all over the world, and I just spent the last 2 weeks in our New York branch.*

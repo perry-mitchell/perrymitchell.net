@@ -26,6 +26,7 @@
     "postcss-import": "^14.0.0",
     "postcss-nested": "^5.0.5",
     "prettier": "^2.2.1",
+    "remove-markdown": "^0.3.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.40.0",
     "rollup-plugin-postcss": "^4.0.0",

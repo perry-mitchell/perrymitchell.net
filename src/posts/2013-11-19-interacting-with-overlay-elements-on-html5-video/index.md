@@ -2,7 +2,10 @@
 layout: post
 title: Interacting with overlay elements on mobile HTML5 video
 excerpt: When we think of video on the Internet, we think more and more of HTML5
-  video and less of Flash play...
+  video and less of Flash players. This has made supporting video playback on
+  mo...
+slug: interacting-with-overlay-elements-on-html5-video
+permalink: article/interacting-with-overlay-elements-on-html5-video/index.html
 date: 2013-11-19
 updatedDate: 2013-11-19
 tags:

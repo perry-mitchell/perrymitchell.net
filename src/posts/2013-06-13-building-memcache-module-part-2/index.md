@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Building a Memcache module for your site (Part 2)
-excerpt: Presumably, you've followed the
-  steps [here](http://perrymitchell.net/article/building_memcache_modu...
+excerpt: Presumably, you've followed the steps here to setup Memcache on your
+  server, or already have it running. This article will walk you through
+  creating a...
+slug: building-memcache-module-part-2
+permalink: article/building-memcache-module-part-2/index.html
 date: 2013-06-13
 updatedDate: 2013-06-13
 tags:

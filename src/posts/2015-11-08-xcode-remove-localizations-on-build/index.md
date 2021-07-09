@@ -2,7 +2,10 @@
 layout: post
 title: "XCode: Remove localizations on build"
 excerpt: XCode provides a relatively simple method of localising your
-  applications. You can provide translati...
+  applications. You can provide translations and alternate assets for text,
+  images, nibs et...
+slug: xcode-remove-localizations-on-build
+permalink: article/xcode-remove-localizations-on-build/index.html
 date: 2015-11-08
 updatedDate: 2015-11-08
 tags:

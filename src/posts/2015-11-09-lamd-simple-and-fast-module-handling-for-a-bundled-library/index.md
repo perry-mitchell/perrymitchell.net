@@ -2,7 +2,10 @@
 layout: post
 title: "lamd: Simple and fast module handling for a bundled library"
 excerpt: Building websites and dashboards can sometimes mean you can relax a
-  little bit when it comes to the ...
+  little bit when it comes to the number of requests you make, cache headers and
+  tra...
+slug: lamd-simple-and-fast-module-handling-for-a-bundled-library
+permalink: article/lamd-simple-and-fast-module-handling-for-a-bundled-library/index.html
 date: 2015-11-09
 updatedDate: 2015-11-09
 tags:

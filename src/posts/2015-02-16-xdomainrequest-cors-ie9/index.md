@@ -2,7 +2,10 @@
 layout: post
 title: XDomainRequest and CORS on IE9
 excerpt: I have a JavaScript project that makes a sizeable number of requests to
-  the back-end using `XMLHttpR...
+  the back-end using XMLHttpRequest, which I recently discovered breaks when
+  usi...
+slug: xdomainrequest-cors-ie9
+permalink: article/xdomainrequest-cors-ie9/index.html
 date: 2015-02-16
 updatedDate: 2015-02-16
 tags:

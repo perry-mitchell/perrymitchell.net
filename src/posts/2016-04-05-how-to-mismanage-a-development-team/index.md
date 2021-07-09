@@ -2,7 +2,10 @@
 layout: post
 title: How to mismanage a development team
 excerpt: Managing or directing a team of people is hard, especially if you lack
-  experience in doing so or are...
+  experience in doing so or aren't of the same expertise. Managing development
+  te...
+slug: how-to-mismanage-a-development-team
+permalink: article/how-to-mismanage-a-development-team/index.html
 date: 2016-04-05
 updatedDate: 2016-04-05
 tags:

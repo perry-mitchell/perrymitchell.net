@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Windows 8 Mail is just terrible
-excerpt: I've[ written
-  before](http://perrymitchell.net/article/windows_8_misunderstood_operating_system) tha...
+excerpt: I've written before that I really like Windows 8, and I still feel the
+  same way despite the title I've given this article. The Mail application in
+  Win...
+slug: windows-8-mail-terrible
+permalink: article/windows-8-mail-terrible/index.html
 date: 2013-07-26
 updatedDate: 2013-07-26
 tags:

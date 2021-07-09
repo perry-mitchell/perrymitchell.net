@@ -2,7 +2,10 @@
 layout: post
 title: Private NPM repository with Sinopia
 excerpt: I've spent the last 6 months venturing into the deepest recesses of
-  front-end build automation and p...
+  front-end build automation and package management, and I've returned with some
+  tre...
+slug: private-npm-repository-with-sinopia
+permalink: article/private-npm-repository-with-sinopia/index.html
 date: 2014-11-21
 updatedDate: 2014-11-21
 tags:

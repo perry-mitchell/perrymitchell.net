@@ -2,7 +2,10 @@
 layout: post
 title: Host alias style dev testing on your iPhone/iPad
 excerpt: At my work, we have quite an extensive development environment setup
-  with a number of domain aliases...
+  with a number of domain aliases in our hosts file. We use a Vagrant plugin to
+  dyn...
+slug: host-alias-style-dev-testing-iphone-ipad
+permalink: article/host-alias-style-dev-testing-iphone-ipad/index.html
 date: 2014-11-19
 updatedDate: 2014-11-19
 tags:

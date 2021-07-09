@@ -2,7 +2,10 @@
 layout: post
 title: Masking a UIView with a CGRect
 excerpt: While working on the next major update for my app, Mine Control, I
-  found I needed to set up a masked...
+  found I needed to set up a masked UIView to get the effect I needed. In the
+  main me...
+slug: masking-uiview-cgrect
+permalink: article/masking-uiview-cgrect/index.html
 date: 2013-05-11
 updatedDate: 2013-05-11
 tags:

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Front-end build automation at Kiosked
-excerpt: "[Kiosked](http://www.kiosked.com/) is an influential web advertising
-  technology company that special..."
+excerpt: Kiosked is an influential web advertising technology company that
+  specialises in providing its clients with automated ad placements. We manage
+  to prov...
+slug: front-end-build-automation-kiosked
+permalink: article/front-end-build-automation-kiosked/index.html
 date: 2015-01-19
 updatedDate: 2015-01-19
 tags:

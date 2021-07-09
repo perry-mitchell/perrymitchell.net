@@ -1,8 +1,11 @@
 ---
 layout: post
 title: A load balanced website using PHP FPM, Nginx, MySQL and Varnish (Part 3)
-excerpt: In the [previous
-  post](http://perrymitchell.net/article/load_balanced_website_php_fpm_nginx_mysql_va...
+excerpt: In the previous post we setup our Wordpress installation on 2 PHP
+  servers for load balancing. We also setup the MySQL database to accept
+  connections o...
+slug: a-load-balanced-website-using-php-fpm-nginx-mysql-and-varnish-part-3
+permalink: article/a-load-balanced-website-using-php-fpm-nginx-mysql-and-varnish-part-3/index.html
 date: 2014-05-08
 updatedDate: 2014-05-08
 tags:

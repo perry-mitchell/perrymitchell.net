@@ -2,7 +2,10 @@
 layout: post
 title: Windows Phone 8 IE fails without SIM card
 excerpt: During some recent testing of several webpages, colleagues of mine
-  discovered that they wouldn't loa...
+  discovered that they wouldn't load on a Nokia Lumia 520. No visible errors,
+  just a ...
+slug: windows-phone-8-ie-fails-without-sim-card
+permalink: article/windows-phone-8-ie-fails-without-sim-card/index.html
 date: 2013-12-04
 updatedDate: 2013-12-04
 tags:

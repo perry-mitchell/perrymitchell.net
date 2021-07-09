@@ -1,8 +1,14 @@
 ---
 layout: post
 title: Chrome finally kills Flash - and now we wait
-excerpt: A colleague of mine was testing some placements recently on the latest
-  version of Chrome, and he saw...
+excerpt: >-
+  A colleague of mine was testing some placements recently on the latest version
+  of Chrome, and he saw something which caught us off-guard:
+
+
+  Flash pause...
+slug: chrome-finally-kills-flash
+permalink: article/chrome-finally-kills-flash/index.html
 date: 2015-09-15
 updatedDate: 2015-09-15
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: Mine Control Update - May 18th
 excerpt: The new release of the Mine Control app is well underway, and I'm
-  finding an increasing number of im...
+  finding an increasing number of improvements I've been able to make in the
+  general l...
+slug: mine-control-update-may-18
+permalink: article/mine-control-update-may-18/index.html
 date: 2013-05-18
 updatedDate: 2013-05-18
 tags:

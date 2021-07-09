@@ -2,7 +2,10 @@
 layout: post
 title: Twitter bootstrap with Google's code prettify
 excerpt: If you're like me, love bootstrap, and love programming, you may end up
-  with a similar situation to ...
+  with a similar situation to me. This site runs google's code prettifier on
+  top...
+slug: twitter-bootstrap-google-code-prettify
+permalink: article/twitter-bootstrap-google-code-prettify/index.html
 date: 2013-05-28
 updatedDate: 2013-05-28
 tags:

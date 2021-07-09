@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Ubuntu One and other cloud storage options
-excerpt: "[Ubuntu One](https://one.ubuntu.com/) is one of many cloud storage
-  options on the market today. Like..."
+excerpt: Ubuntu One is one of many cloud storage options on the market today.
+  Like Dropbox and other alternatives, it offers free storage upfront, along
+  with m...
+slug: ubuntu-one-cloud-storage
+permalink: article/ubuntu-one-cloud-storage/index.html
 date: 2013-05-12
 updatedDate: 2013-05-12
 tags:

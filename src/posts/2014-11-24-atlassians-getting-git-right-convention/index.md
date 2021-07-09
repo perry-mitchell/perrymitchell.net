@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Atlassian's 'Getting Git Right' convention
-excerpt: I attended the [Getting Git Right
-  conference](https://www.atlassian.com/getting-git-right) in Helsin...
+excerpt: I attended the Getting Git Right conference in Helsinki today - The
+  code versioning tool discussion held by Atlassian all over the world.
+  Atlassian ar...
+slug: atlassians-getting-git-right-convention
+permalink: article/atlassians-getting-git-right-convention/index.html
 date: 2014-11-24
 updatedDate: 2014-11-24
 tags:

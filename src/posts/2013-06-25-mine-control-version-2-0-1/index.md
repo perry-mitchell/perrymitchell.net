@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Mine Control version 2 released
-excerpt: The new update for the [Mine Control
-  app](http://perrymitchell.net/software/mine_control), 2.0.1, ha...
+excerpt: The new update for the Mine Control app, 2.0.1, has just been made
+  available today. You can purchase it in the iTunes app store, or download the
+  updat...
+slug: mine-control-version-2-0-1
+permalink: article/mine-control-version-2-0-1/index.html
 date: 2013-06-25
 updatedDate: 2013-06-25
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: JavaScript testing with Jasmine and PhantomJS
 excerpt: JavaScript testing has always been something of a neglected process at
-  work. Nobody really knows how...
+  work. Nobody really knows how to write them, and nobody cares to learn.
+  There's...
+slug: javascript-testing-with-jasmine-and-phantomjs
+permalink: article/javascript-testing-with-jasmine-and-phantomjs/index.html
 date: 2014-02-28
 updatedDate: 2014-02-28
 tags:

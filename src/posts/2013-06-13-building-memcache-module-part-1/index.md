@@ -2,7 +2,10 @@
 layout: post
 title: Building a Memcache module for your site (Part 1)
 excerpt: Adding memcache functionality to your custom site can be very
-  beneficial for processing speed, depen...
+  beneficial for processing speed, depending on what you cache. Memcache can
+  help take the...
+slug: building-memcache-module-part-1
+permalink: article/building-memcache-module-part-1/index.html
 date: 2013-06-13
 updatedDate: 2013-06-13
 tags:

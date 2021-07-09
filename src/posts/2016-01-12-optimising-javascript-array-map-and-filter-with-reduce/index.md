@@ -2,7 +2,10 @@
 layout: post
 title: Optimising JavaScript array map and filter with reduce
 excerpt: I submitted a merge request today to colleague that rightfully pointed
-  out that I was iterating over...
+  out that I was iterating over an array inefficiently. The array was a
+  collectio...
+slug: optimising-javascript-array-map-and-filter-with-reduce
+permalink: article/optimising-javascript-array-map-and-filter-with-reduce/index.html
 date: 2016-01-12
 updatedDate: 2016-01-12
 tags:

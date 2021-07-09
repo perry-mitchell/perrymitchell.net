@@ -1,8 +1,14 @@
 ---
 layout: post
 title: How to fix a 1 year max cache age on a script
-excerpt: Today I witnessed one of the worst sights I've seen since I started
-  developing for the web - a JavaS...
+excerpt: >-
+  Today I witnessed one of the worst sights I've seen since I started developing
+  for the web - a JavaScript file with a helluva lot of cache time.
+
+
+  1 ye...
+slug: how-to-fix-a-1-year-max-cache-age-on-a-script
+permalink: article/how-to-fix-a-1-year-max-cache-age-on-a-script/index.html
 date: 2015-10-27
 updatedDate: 2015-10-27
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: Rovaniemi & Santa's Village
 excerpt: More to the north of Finland lies the beautiful but chilly town of
-  Rovaniemi, the home of Santa's Vi...
+  Rovaniemi, the home of Santa's Village. The village is a few minutes outside
+  the ce...
+slug: rovaniemi-santas-village
+permalink: article/rovaniemi-santas-village/index.html
 date: 2014-12-17
 updatedDate: 2014-12-17
 tags:

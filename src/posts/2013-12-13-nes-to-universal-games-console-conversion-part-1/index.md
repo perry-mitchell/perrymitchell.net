@@ -2,7 +2,10 @@
 layout: post
 title: NES to Universal Games Console conversion (Part 1)
 excerpt: Some time ago I started a Super Nintendo conversion project designed to
-  provide me with an all-in-on...
+  provide me with an all-in-one gaming console of the retro variety. The idea
+  wa...
+slug: nes-to-universal-games-console-conversion-part-1
+permalink: article/nes-to-universal-games-console-conversion-part-1/index.html
 date: 2013-12-13
 updatedDate: 2013-12-13
 tags:

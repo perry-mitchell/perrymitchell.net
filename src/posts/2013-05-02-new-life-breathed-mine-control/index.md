@@ -2,7 +2,10 @@
 layout: post
 title: New life breathed into Mine Control
 excerpt: "So it's been a while since I released my first app, Mine Control: An
-  iOS app designed to provide an ..."
+  iOS app designed to provide an easy-to-use interface for administrating
+  Minecraft..."
+slug: new-life-breathed-mine-control
+permalink: article/new-life-breathed-mine-control/index.html
 date: 2013-05-02
 updatedDate: 2013-05-02
 tags:

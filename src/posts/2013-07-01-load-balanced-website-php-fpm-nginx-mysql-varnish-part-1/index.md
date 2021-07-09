@@ -2,7 +2,10 @@
 layout: post
 title: A load balanced website using PHP FPM, Nginx, MySQL and Varnish (Part 1)
 excerpt: A recent project I was working on involved designing a web system that
-  was load balanced and reliabl...
+  was load balanced and reliable. The quote involved using Wordpress as the
+  websi...
+slug: load-balanced-website-php-fpm-nginx-mysql-varnish-part-1
+permalink: article/load-balanced-website-php-fpm-nginx-mysql-varnish-part-1/index.html
 date: 2013-07-01
 updatedDate: 2013-07-01
 tags:

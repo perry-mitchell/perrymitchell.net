@@ -2,7 +2,10 @@
 layout: post
 title: The social implications of working in advertising
 excerpt: The question of what you do for a living is a common one, and answering
-  it is an evolving practise t...
+  it is an evolving practise that should make you reflect a little on what it
+  is...
+slug: the-social-implications-of-working-in-advertising
+permalink: article/the-social-implications-of-working-in-advertising/index.html
 date: 2015-09-02
 updatedDate: 2015-09-02
 tags:

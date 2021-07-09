@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Buttercup - a look at the archive
-excerpt: When thinking of how the format of a [Buttercup][1] archive should be,
-  I spent some time trying to s...
+excerpt: When thinking of how the format of a Buttercup archive should be, I
+  spent some time trying to solve some common issues I have with other password
+  mana...
+slug: buttercup-archive-capabilities
+permalink: article/buttercup-archive-capabilities/index.html
 date: 2015-12-03
 updatedDate: 2015-12-03
 tags:

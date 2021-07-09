@@ -1,8 +1,14 @@
 ---
 layout: post
 title: Browser-based unit testing with Webdriver and PhantomJS
-excerpt: I've been testing my projects with [PhantomJS](http://phantomjs.org/)
-  for a long time now. Phantom i...
+excerpt: >-
+  I've been testing my projects with PhantomJS for a long time now. Phantom is a
+  headless browser, and it makes interacting with a DOM easy to script.
+
+
+  ...
+slug: browser-based-unit-testing-with-webdriver-and-phantomjs
+permalink: article/browser-based-unit-testing-with-webdriver-and-phantomjs/index.html
 date: 2016-04-17
 updatedDate: 2016-04-17
 tags:

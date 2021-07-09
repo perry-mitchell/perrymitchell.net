@@ -2,7 +2,10 @@
 layout: post
 title: Concatenate your JavaScript library using ScanTree and GruntJS
 excerpt: "I'm working on a couple of different libraries currently that share
-  some common ground: They both ar..."
+  some common ground: They both are compiled into a single file, and they both
+  have ..."
+slug: concatenate-javascript-library-scantree-gruntjs
+permalink: article/concatenate-javascript-library-scantree-gruntjs/index.html
 date: 2015-07-26
 updatedDate: 2015-07-26
 tags:

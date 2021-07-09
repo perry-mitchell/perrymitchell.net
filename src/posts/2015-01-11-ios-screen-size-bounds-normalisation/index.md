@@ -2,7 +2,10 @@
 layout: post
 title: iOS screen size & bounds normalisation
 excerpt: When iOS 8 came to be, Apple made some changes in how the OS returned
-  the size and bounds of the scr...
+  the size and bounds of the screen. The size (width & height) returned by a
+  comma...
+slug: ios-screen-size-bounds-normalisation
+permalink: article/ios-screen-size-bounds-normalisation/index.html
 date: 2015-01-11
 updatedDate: 2015-01-11
 tags:

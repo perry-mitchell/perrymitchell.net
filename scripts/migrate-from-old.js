@@ -2,6 +2,7 @@ const path = require("path");
 const fs = require("fs");
 const frontMatter = require("front-matter");
 const YAML = require("yaml");
+const removeMarkdown = require("remove-markdown");
 
 const POSTS_INPUT = "/Users/perry/temp/website/perrymitchell.net/posts";
 const POSTS_OUTPUT = "/Users/perry/git/perrymitchell.net/src/posts";
@@ -32,8 +33,10 @@ async function run() {
         const postDate = new Date(dateRaw);
         const [dateSlug] = postDate.toISOString().split("T");
         const fileNameBase = path.basename(sourceItem.filename).replace(".md", "");
+        console.log("Processing:", fileNameBase);
 
-        const excerpt = `${body.trim().substring(0, 100)}...`;
+        const bodyText = removeMarkdown(body);
+        const excerpt = `${bodyText.trim().substring(0, 150)}...`;
 
         const newPostName = `${dateSlug}-${fileNameBase}`;
         const newPostDir = path.join(POSTS_OUTPUT, newPostName);
@@ -43,6 +46,8 @@ async function run() {
             layout: "post",
             title,
             excerpt,
+            slug: fileNameBase,
+            permalink: `article/${fileNameBase}/index.html`,
             date: dateSlug,
             updatedDate: dateSlug,
             tags: ["post", ...(tags || [])]

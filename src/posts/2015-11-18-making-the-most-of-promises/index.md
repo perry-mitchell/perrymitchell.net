@@ -2,7 +2,10 @@
 layout: post
 title: Making the most of Promises
 excerpt: Promises are a nifty little addition to JavaScript that arrived with
-  the [ES6 (ES2015) specification...
+  the ES6 (ES2015) specification. These gadgets, when used properly, provide a
+  powe...
+slug: making-the-most-of-promises
+permalink: article/making-the-most-of-promises/index.html
 date: 2015-11-18
 updatedDate: 2015-11-18
 tags:

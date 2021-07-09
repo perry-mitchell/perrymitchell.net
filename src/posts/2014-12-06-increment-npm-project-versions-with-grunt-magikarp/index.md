@@ -2,7 +2,10 @@
 layout: post
 title: Increment npm project versions with grunt-magikarp
 excerpt: We develop in a world with a vast amount of choice when it comes to
-  supporting packages and tools. I...
+  supporting packages and tools. It's a luxury that at any time we can swiftly
+  build...
+slug: increment-npm-project-versions-with-grunt-magikarp
+permalink: article/increment-npm-project-versions-with-grunt-magikarp/index.html
 date: 2014-12-06
 updatedDate: 2014-12-06
 tags:

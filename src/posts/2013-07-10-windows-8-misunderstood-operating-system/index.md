@@ -2,7 +2,10 @@
 layout: post
 title: Windows 8 - A misunderstood operating system
 excerpt: By now we've all become accustomed to the Metro UI that replaced the
-  Windows start menu in Windows 8...
+  Windows start menu in Windows 8, and for the most part, people have hated it.
+  To ...
+slug: windows-8-misunderstood-operating-system
+permalink: article/windows-8-misunderstood-operating-system/index.html
 date: 2013-07-10
 updatedDate: 2013-07-10
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: "OddshotTV: Capture and watch gaming highlights"
 excerpt: A couple of months ago I helped implement the base system for an
-  awesome video-game streaming servic...
+  awesome video-game streaming service called Oddshot. Oddshot captures your
+  favourite ...
+slug: oddshottv-capture-and-watch-gaming-highlights
+permalink: article/oddshottv-capture-and-watch-gaming-highlights/index.html
 date: 2015-07-18
 updatedDate: 2015-07-18
 tags:

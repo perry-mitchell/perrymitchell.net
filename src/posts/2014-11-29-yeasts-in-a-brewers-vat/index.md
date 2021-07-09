@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Yeasts in a brewer's vat -- Farley Mowat
-excerpt: "> We are behaving like yeasts in a brewer's vat, multiplying
-  mindlessly while greedily consuming the..."
+excerpt: We are behaving like yeasts in a brewer's vat, multiplying mindlessly
+  while greedily consuming the substance of a finite world. If we continue to
+  imit...
+slug: yeasts-in-a-brewers-vat
+permalink: article/yeasts-in-a-brewers-vat/index.html
 date: 2014-11-29
 updatedDate: 2014-11-29
 tags:

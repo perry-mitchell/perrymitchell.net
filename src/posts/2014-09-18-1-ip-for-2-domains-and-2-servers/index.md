@@ -1,8 +1,11 @@
 ---
 layout: post
 title: 1 IP for 2 domains and 2 servers
-excerpt: Recently I've been using [GitLab](https://about.gitlab.com/) a lot for
-  work, and have found it to be...
+excerpt: Recently I've been using GitLab a lot for work, and have found it to be
+  a wonderful platform on which to manage our repositories and branches. I've
+  en...
+slug: 1-ip-for-2-domains-and-2-servers
+permalink: article/1-ip-for-2-domains-and-2-servers/index.html
 date: 2014-09-18
 updatedDate: 2014-09-18
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: Aivoterveydeksi! iOS app released
 excerpt: After a full year of coding, tweaking and testing, I've released
-  Muistiliitto's brain health applica...
+  Muistiliitto's brain health application "Aivoterveydeksi!" in the iOS app
+  store. The ...
+slug: aivoterveydeksi-ios-app-released
+permalink: article/aivoterveydeksi-ios-app-released/index.html
 date: 2015-03-11
 updatedDate: 2015-03-11
 tags:

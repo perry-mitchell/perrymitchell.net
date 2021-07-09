@@ -1,8 +1,11 @@
 ---
 layout: post
 title: How Buttercup creates an encrypted password archive
-excerpt: I've had a great time writing the [Buttercup password
-  manager](http://buttercup.pw/) with [Sallar](h...
+excerpt: I've had a great time writing the Buttercup password manager with
+  Sallar, and we've both learnt alot about how the system behind a credentials
+  vault s...
+slug: how-buttercup-creates-an-encrypted-password-archive
+permalink: article/how-buttercup-creates-an-encrypted-password-archive/index.html
 date: 2015-12-15
 updatedDate: 2015-12-15
 tags:

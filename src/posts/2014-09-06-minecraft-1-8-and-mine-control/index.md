@@ -1,8 +1,14 @@
 ---
 layout: post
 title: Minecraft 1.8 and Mine Control
-excerpt: Mojang have released version 1.8 of Minecraft, which adds a vast array
-  of efficiency improvements an...
+excerpt: >-
+  Mojang have released version 1.8 of Minecraft, which adds a vast array of
+  efficiency improvements and features.
+
+
+  Unfortunately for users of my iOS app...
+slug: minecraft-1-8-and-mine-control
+permalink: article/minecraft-1-8-and-mine-control/index.html
 date: 2014-09-06
 updatedDate: 2014-09-06
 tags:

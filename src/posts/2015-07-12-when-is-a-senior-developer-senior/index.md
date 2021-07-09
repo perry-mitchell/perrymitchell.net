@@ -1,8 +1,11 @@
 ---
 layout: post
 title: When is a senior developer senior?
-excerpt: You shouldn't really be hiring **senior developers**. When taking on a
-  new employee, that individual...
+excerpt: You shouldn't really be hiring senior developers. When taking on a new
+  employee, that individual needs to learn an enormous amount about your
+  workplac...
+slug: when-is-a-senior-developer-senior
+permalink: article/when-is-a-senior-developer-senior/index.html
 date: 2015-07-12
 updatedDate: 2015-07-12
 tags:

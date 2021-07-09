@@ -2,7 +2,10 @@
 layout: post
 title: Communication between JavaScript and iOS using UIWebView
 excerpt: I've been powering through a 14-month iOS project and am nearing the
-  end - much to my relief - but j...
+  end - much to my relief - but just like most projects, it's rife with
+  feature-cre...
+slug: communication-between-javascript-ios-using-uiwebview-base64
+permalink: article/communication-between-javascript-ios-using-uiwebview-base64/index.html
 date: 2015-02-03
 updatedDate: 2015-02-03
 tags:

@@ -2,7 +2,10 @@
 layout: post
 title: Buttercup's free and secure future
 excerpt: I didn't always see a need for a password manager. I used 2 basic
-  passwords throughout school and un...
+  passwords throughout school and university for most of my authenticated
+  services, an...
+slug: buttercups-free-and-secure-future
+permalink: article/buttercups-free-and-secure-future/index.html
 date: 2016-02-01
 updatedDate: 2016-02-01
 tags:

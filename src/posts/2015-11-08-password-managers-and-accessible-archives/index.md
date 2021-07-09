@@ -2,7 +2,10 @@
 layout: post
 title: Password managers and accessible archives
 excerpt: "Password managers are not a new concept: Many individuals that make
-  somewhat frequent use of a compu..."
+  somewhat frequent use of a computer utilise a password manager to store their
+  pass..."
+slug: password-managers-and-accessible-archives
+permalink: article/password-managers-and-accessible-archives/index.html
 date: 2015-11-08
 updatedDate: 2015-11-08
 tags:

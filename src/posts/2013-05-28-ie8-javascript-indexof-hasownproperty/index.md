@@ -2,7 +2,10 @@
 layout: post
 title: "IE8 Javascript: indexOf and hasOwnProperty"
 excerpt: "I'll cut to the chase on this one: IE8 has a few problems handling
-  some Javascript features a lot of..."
+  some Javascript features a lot of programmers, like myself, have taken for
+  granted ..."
+slug: ie8-javascript-indexof-hasownproperty
+permalink: article/ie8-javascript-indexof-hasownproperty/index.html
 date: 2013-05-28
 updatedDate: 2013-05-28
 tags:

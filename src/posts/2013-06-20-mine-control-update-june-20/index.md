@@ -2,7 +2,10 @@
 layout: post
 title: Mine Control Update - June 20th
 excerpt: The app has been re-released in to the app store! Hopefully it's only
-  days away this time... It's a ...
+  days away this time... It's a huge change, one which I'm very keen to see the
+  ou...
+slug: mine-control-update-june-20
+permalink: article/mine-control-update-june-20/index.html
 date: 2013-06-20
 updatedDate: 2013-06-20
 tags:

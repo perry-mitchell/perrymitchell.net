@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "IE8 Javascript: Console"
-excerpt: In my [previous
-  post](http://perrymitchell.net/article/ie8_javascript_indexof_hasownproperty),
-  I neg...
+excerpt: In my previous post, I neglected to mention IE8's inability to work
+  with the console object. It does work, but only if the debug tools are open
+  when l...
+slug: ie8-javascript-console
+permalink: article/ie8-javascript-console/index.html
 date: 2013-05-28
 updatedDate: 2013-05-28
 tags:

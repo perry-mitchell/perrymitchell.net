@@ -6,7 +6,11 @@ excerpt: >-
   new updates:
 
 
-  *   Fixe...
+  Fixed support for the new Minecraft command system
+
+  Server ...
+slug: mine-control-2-2-release
+permalink: article/mine-control-2-2-release/index.html
 date: 2014-09-11
 updatedDate: 2014-09-11
 tags:

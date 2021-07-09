@@ -2,7 +2,10 @@
 layout: post
 title: Mine Control Update - May 30th
 excerpt: The update for the Mine Control app is coming along nicely, and is not
-  far off completion. I'm expec...
+  far off completion. I'm expecting it to take just another couple of weeks for
+  s...
+slug: mine-control-update-may-30
+permalink: article/mine-control-update-may-30/index.html
 date: 2013-05-30
 updatedDate: 2013-05-30
 tags:

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Buttercup first release: 0.1.0 alpha"
-excerpt: Today we released the [first
-  version](https://github.com/buttercup-pw/buttercup/releases/tag/v0.1.0-...
+excerpt: Today we released the first version of our cross-platform password
+  manager, Buttercup, as an alpha release. A colleague and myself have been
+  developin...
+slug: buttercup-first-release-0-1-0-alpha
+permalink: article/buttercup-first-release-0-1-0-alpha/index.html
 date: 2016-01-30
 updatedDate: 2016-01-30
 tags:

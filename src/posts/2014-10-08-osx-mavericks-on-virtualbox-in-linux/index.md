@@ -2,7 +2,10 @@
 layout: post
 title: OSX Mavericks on Virtualbox in Linux
 excerpt: For a while now, I've been trying to get OSX running inside a VM on my
-  Debian machine. I myself own ...
+  Debian machine. I myself own a Macbook pro and a Mac Mini, but I still would
+  li...
+slug: osx-mavericks-on-virtualbox-in-linux
+permalink: article/osx-mavericks-on-virtualbox-in-linux/index.html
 date: 2014-10-08
 updatedDate: 2014-10-08
 tags:

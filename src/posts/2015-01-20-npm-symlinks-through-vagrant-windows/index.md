@@ -2,7 +2,10 @@
 layout: post
 title: Working with npm and symlinks through Vagrant on Windows
 excerpt: I grew up playing games on DOS and Windows for Workgroups 3.11\. I
-  stuck with Windows until I went t...
+  stuck with Windows until I went to university, where I promptly installed
+  Ubuntu ev...
+slug: npm-symlinks-through-vagrant-windows
+permalink: article/npm-symlinks-through-vagrant-windows/index.html
 date: 2015-01-20
 updatedDate: 2015-01-20
 tags:

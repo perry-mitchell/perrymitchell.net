@@ -1,8 +1,11 @@
 ---
 layout: post
 title: PAX Aus - Possibly the most awesome thing ever
-excerpt: Over the weekend I flew down to Melbourne for the [Penny
-  Arcade](http://www.penny-arcade.com/) Expo ...
+excerpt: Over the weekend I flew down to Melbourne for the Penny Arcade Expo
+  (PAX) - A gaming exhibition spanning 3 days with many thousands of gamers,
+  cosplay...
+slug: pax-aus-most-awesome
+permalink: article/pax-aus-most-awesome/index.html
 date: 2013-07-24
 updatedDate: 2013-07-24
 tags:

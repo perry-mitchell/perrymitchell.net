@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Stop polluting my prototypes
-excerpt: |-
-  ## I'm looking at you, [Prototype.js](http://prototypejs.org/).
+excerpt: >-
+  I'm looking at you, Prototype.js.
 
-  I write JavaScript for a living, an...
+
+  I write JavaScript for a living, and my company's product is delivered as a script to our clients. Once asynchronou...
+slug: stop-polluting-my-prototypes
+permalink: article/stop-polluting-my-prototypes/index.html
 date: 2015-05-03
 updatedDate: 2015-05-03
 tags:

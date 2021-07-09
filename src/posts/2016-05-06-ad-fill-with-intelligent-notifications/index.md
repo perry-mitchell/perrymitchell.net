@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Ad fill with intelligent notifications
-excerpt: There are hundreds of networks out there competing for the broadest reach and best offering...
+excerpt: There are hundreds of networks out there competing for the broadest
+  reach and best offering, and most of them use variants of the same
+  technologies to...
+slug: ad-fill-with-intelligent-notifications
+permalink: article/ad-fill-with-intelligent-notifications/index.html
 date: 2016-05-06
 updatedDate: 2016-05-06
 tags:

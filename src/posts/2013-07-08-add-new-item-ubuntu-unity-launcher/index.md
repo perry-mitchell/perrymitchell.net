@@ -2,7 +2,10 @@
 layout: post
 title: Add a new item to Ubuntu's Unity launcher
 excerpt: Every time I install a new Ubuntu instance, and that's a lot, I find
-  myself pouring over pages in Go...
+  myself pouring over pages in Google trying to quickly find the best way to add
+  a ...
+slug: add-new-item-ubuntu-unity-launcher
+permalink: article/add-new-item-ubuntu-unity-launcher/index.html
 date: 2013-07-08
 updatedDate: 2013-07-08
 tags:

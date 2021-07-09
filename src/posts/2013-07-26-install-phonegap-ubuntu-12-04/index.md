@@ -2,7 +2,10 @@
 layout: post
 title: Installing Phonegap on Ubuntu 12.04
 excerpt: Attempting to install Phonegap on your Ubuntu workstation? Well guess
-  again. At the time of writing ...
+  again. At the time of writing this post, users following the steps on the
+  Phoneg...
+slug: install-phonegap-ubuntu-12-04
+permalink: article/install-phonegap-ubuntu-12-04/index.html
 date: 2013-07-26
 updatedDate: 2013-07-26
 tags:

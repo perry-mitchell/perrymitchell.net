@@ -2,7 +2,10 @@
 layout: post
 title: PHP cURL with Sessions
 excerpt: There are often times when you need to pull remote content in your PHP
-  script from another server. T...
+  script from another server. There are numerous ways you can do this, but the
+  be...
+slug: php-curl-sessions
+permalink: article/php-curl-sessions/index.html
 date: 2013-06-24
 updatedDate: 2013-06-24
 tags:

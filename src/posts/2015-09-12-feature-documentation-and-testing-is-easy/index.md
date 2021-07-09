@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Feature documentation and testing is easy
-excerpt: At [Kiosked](http://www.kiosked.com/), in my Front-end development
-  team, we've just starting using B...
+excerpt: At Kiosked, in my Front-end development team, we've just starting using
+  BBC Sport's ShouldIT to run tests against our feature documentation. Testing
+  a...
+slug: feature-documentation-and-testing-is-easy
+permalink: article/feature-documentation-and-testing-is-easy/index.html
 date: 2015-09-12
 updatedDate: 2015-09-12
 tags:

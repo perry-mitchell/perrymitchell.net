@@ -2,7 +2,10 @@
 layout: post
 title: Farewell PM2, hello upstart
 excerpt: At work, we recently started using our first NodeJS service in
-  production. We also have another coup...
+  production. We also have another couple of Node servers, all of which are
+  being kept on...
+slug: farewell-PM2-hello-upstart
+permalink: article/farewell-PM2-hello-upstart/index.html
 date: 2016-04-27
 updatedDate: 2016-04-27
 tags:

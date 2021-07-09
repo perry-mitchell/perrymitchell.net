@@ -2,7 +2,10 @@
 layout: post
 title: Time to let Internet Explorer go
 excerpt: Working with websites every day really opens ones eyes to the
-  inconsistencies in protocol and featur...
+  inconsistencies in protocol and feature support with browsers, devices and
+  operating sys...
+slug: time-to-let-internet-explorer-go
+permalink: article/time-to-let-internet-explorer-go/index.html
 date: 2013-05-25
 updatedDate: 2013-05-25
 tags:

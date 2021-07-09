@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Tennyson Powerhouse
-excerpt: Long ago, before the [Queensland Tennis
-  Centre](http://www.queenslandtenniscentre.com.au/) was erect...
+excerpt: Long ago, before the Queensland Tennis Centre was erected, the Tennyson
+  Powerhouse (1 2 3) overlooked the Brisbane river on the southside. The
+  spectac...
+slug: tennyson-powerhouse
+permalink: article/tennyson-powerhouse/index.html
 date: 2013-06-23
 updatedDate: 2013-06-23
 tags:

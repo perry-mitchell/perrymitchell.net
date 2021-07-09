@@ -1,8 +1,11 @@
 ---
 layout: post
 title: LogMeIn service to become subscription only
-excerpt: The remote-control service [LogMeIn](https://secure.logmein.com/) has
-  stated that all of its free re...
+excerpt: The remote-control service LogMeIn has stated that all of its free
+  remote control services will become subscription only in just a few days. This
+  mean...
+slug: logmein-subscription-only
+permalink: article/logmein-subscription-only/index.html
 date: 2014-01-22
 updatedDate: 2014-01-22
 tags:

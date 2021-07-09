@@ -2,7 +2,10 @@
 layout: post
 title: Restoring overridden window and document methods with archetype
 excerpt: Some scripts are built with the intention that they'll be used on some
-  corporate site or personal bl...
+  corporate site or personal blog - a relatively controlled environment with
+  litt...
+slug: restoring-overridden-window-and-document-methods-with-archetype
+permalink: article/restoring-overridden-window-and-document-methods-with-archetype/index.html
 date: 2015-12-30
 updatedDate: 2015-12-30
 tags:

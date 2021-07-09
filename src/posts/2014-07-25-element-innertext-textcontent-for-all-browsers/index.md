@@ -2,7 +2,10 @@
 layout: post
 title: Element innerText/textContent for all browsers
 excerpt: We do a lot of content scraping at my day job - parsing large blocks of
-  content on thousands of page...
+  content on thousands of pages - and most of this is done client-side with
+  Java...
+slug: element-innertext-textcontent-for-all-browsers
+permalink: article/element-innertext-textcontent-for-all-browsers/index.html
 date: 2014-07-25
 updatedDate: 2014-07-25
 tags:

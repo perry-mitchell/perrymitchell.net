@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Node and Express as a web server
-excerpt: Over at [Oddshot](http://oddshot.tv/) we've had some time to look at
-  the best ways of providing an a...
+excerpt: Over at Oddshot we've had some time to look at the best ways of
+  providing an awesome experience to our viewers. We've looked at things like
+  performanc...
+slug: node-express-web-server
+permalink: article/node-express-web-server/index.html
 date: 2015-08-22
 updatedDate: 2015-08-22
 tags:
