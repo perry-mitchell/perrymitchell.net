@@ -20,7 +20,7 @@ Promises are a nifty little addition to JavaScript that arrived with the [ES6 (E
 
 Take the following code, using our tried-and-true friend, callbacks:
 
-```
+```javascript
 fetchRemoteData("/endpoint", function(data) {
     syncLocalStore(data, function(syncData) {
         sortByMetric(syncData, function(sorted) {
@@ -32,7 +32,7 @@ fetchRemoteData("/endpoint", function(data) {
 
 Lots of async happening here, with a little sideways creep... It's not a total mess, and it's still somewhat readable. This style of managing asynchronous functions, dependent processing and chainging is the norm - JavaScript is evolving, albeit at a very slow pace, and features that address this particular style are adopted very gradually. Promises tackle complex callback-setups with ease:
 
-```
+```javascript
 fetchRemoteData("endpoint")
     .then(syncLocalStore)
     .then(sortByMetric)
@@ -43,7 +43,7 @@ Straight away, we've gained an enormous amount of readability (not to mention gu
 
 The initiating function - in a chain like this - must return a promise:
 
-```
+```javascript
 function initiator() {
     // Instantiate a new promise
     return new Promise(function(resolve, reject) {
@@ -60,7 +60,7 @@ function initiator() {
 
 But the subsequent _links_ in the chain do not necessarily have to generate promises. When you look at the thenables in a promise chain, they're often wrapped up as `.then(function() { /* something */ })`. The link usually performs a simple, synchronous task and then moves on. These functions can also return a new promise, or be another promise altogether:
 
-```
+```javascript
 function getData() {
     // Simulating a request
     return Promise.resolve({
@@ -70,7 +70,7 @@ function getData() {
 }
 
 function dataToString(data) {
-    return data.title + " (" + data.value + ")";   
+    return data.title + " (" + data.value + ")";
 }
 
 getData()
@@ -105,7 +105,7 @@ This style of writing promise chains and functions is great for readability, and
 
 Rarely do dependent tasks have only 1 dependency. Often times, you need to pipe results from a couple of different areas into one chain to one end - `Promise.all` was made to handle situations such as these. Take the following example:
 
-```
+```javascript
 /**
  * Add an array of items
  * @param {Number[]} items An array of numbers
@@ -120,7 +120,7 @@ function part2() {
         setTimeout(function() {
             (resolve)(3);
         }, 30);
-    });   
+    });
 }
 
 Promise
@@ -154,7 +154,7 @@ The `.race()` method of `Promise` allows you to resolve after the first of a gro
 
 Take the following example for instance:
 
-```
+```javascript
 // A couple of promises for our race
 var item1 = new Promise(function(resolve) {
         setTimeout(function() {

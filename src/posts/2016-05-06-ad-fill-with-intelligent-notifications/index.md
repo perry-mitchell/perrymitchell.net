@@ -40,7 +40,7 @@ Each message would also need to include identifying factors so that the managing
 
 A message may look like the following (JSON):
 
-```
+```json
 {
     "pr": "openx",
     "ts": 1462562373173,
@@ -56,7 +56,7 @@ Hopefully most of the attributes are easily understood - the `id` section contai
 
 When delegating to another tag, that tag's information should be entered so that tracking can continue. If the next ad is not known, the message it sends is basically useless as its origin is impossible to discern. For instance:
 
-```
+```json
 {
     "pr": "openx",
     "ts": 1462562373173,
@@ -82,7 +82,7 @@ One thing to note with this approach is the fact that the delegate information o
 
 This could be combatted by attacking the problem from the other direction as well: If we could send some kind of identifier into each subsequent iframe, like a `stackId`, we could use this in the messages as the identifying information:
 
-```
+```json
 {
     "pr": "openx",
     "ts": 1462562373173,

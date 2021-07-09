@@ -24,7 +24,7 @@ At work, we recently started using our first NodeJS service in production. We al
 
 You can boot your app with PM2 easily by just passing it to the start command: `pm2 start app.js`, or you can write a JSON config for it and start that:
 
-```
+```json
 {
     "name": "myApp",
     "script": "app.js",

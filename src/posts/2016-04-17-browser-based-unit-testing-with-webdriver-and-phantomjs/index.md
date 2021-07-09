@@ -14,10 +14,8 @@ updatedDate: 2016-04-17
 tags:
   - post
   - testing
-  - TDD
   - chrome
   - phantomjs
-  - webdriver
 ---
 
 I've been testing my projects with [PhantomJS](http://phantomjs.org/) for a long time now. Phantom is a headless browser, and it makes interacting with a DOM easy to script.
@@ -55,7 +53,7 @@ It was so easy, using WebdriverJS, that I decided to write an application called
 ## JasDriver vs PhantomJS
 So, how does JasDriver compare in terms of testing? Back when I was actively using GruntJS to automate many of my development tasks, I would use [grunt-contrib-jasmine](https://www.npmjs.com/package/grunt-contrib-jasmine) to setup my testing suite (which uses Phantom). It was quite painless and it also used a very simple configuration:
 
-```
+```javascript
 grunt.initConfig({
     jasmine: {
         kiosked: {
@@ -73,7 +71,7 @@ Running `grunt test` would start Phantom and the begin running Jasmine tests, re
 
 Going forward, one would hope that transitioning to a new toolset (Jasdriver, Webdriver & a real browser) would result in as simple a configuration as what I've just presented. The good news is it **can** be just like that - here's my current JasDriver configuration:
 
-```
+```javascript
 module.exports = {
     specs: [
         __dirname + "/build/buttercup.js",
@@ -85,7 +83,7 @@ module.exports = {
 
 Once I've setup my `package.json` test:
 
-```
+```javascript
 {
     "scripts": {
         "test": "jasdriver"

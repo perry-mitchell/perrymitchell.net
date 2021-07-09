@@ -17,7 +17,7 @@ While working on the next major update for my app, Mine Control, I found I neede
 
 Firstly, I had to separate the views. I created a new view solely for containing the table, and placed it behind the logo block. I would mask the top of the view, so that the UITableView would be visible in a rectangle consisting of the entire screen below the block. To achieve the mask, you must specify a CGRect representing the visible portion of the view that you want to mask. Create a path using the CGRect and set it to a CAShapeLayer. You can then set the view's layer.mask property to this shape layer, which will give you your mask. Here's the code I ended up with:
 
-```
+```objectivec
 // Masking for the menu animation
 CAShapeLayer *maskLayer = [[CAShapeLayer alloc] init];
 CGRect maskRect = CGRectMake(0, top-20, screenWidth, height+20);
