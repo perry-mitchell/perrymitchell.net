@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/perrymitchell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://perrymitchell.net
+  * I am perrymitchell (https://keybase.io/perrymitchell) on keybase.
+  * I have a public key ASAO79ct-6rsTRP3lK7zTWW1XpS5A6N8U2PjOuOPJx_cwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013e64b449e79725ebe817f6da552c6e8024a9f4be8d9b9a30cbe676b87baa95e0a",
+      "host": "keybase.io",
+      "kid": "01200eefd72dfbaaec4d13f794aef34d65b55e94b903a37c5363e33ae38f271fdcc00a",
+      "uid": "f09f8db7aee70a26cbc0bbca68cbe619",
+      "username": "perrymitchell"
+    },
+    "merkle_root": {
+      "ctime": 1699529299,
+      "hash": "c72acb18be45e2735ffb225de3d70f0ac2f42179632904b1974a59a9a5f0c04964da31d15352b242adf401c4b0bf4082e7b8359cd43d699e6e35eab5a1468072",
+      "hash_meta": "9d7246d92b418ecc1516e4a6f567687840bdb20ff74ef9c3b05b332e9b7612bb",
+      "seqno": 25125201
+    },
+    "service": {
+      "entropy": "cTUH6nkVKEDInnC7yGblrUvd",
+      "hostname": "perrymitchell.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.4"
+  },
+  "ctime": 1699529445,
+  "expire_in": 504576000,
+  "prev": "fed2be54745e475a402c754674cc7723fd1ff03a90cfdfad5719d47629c73b6a",
+  "seqno": 90,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDu/XLfuq7E0T95Su801ltV6UuQOjfFNj4zrjjycf3MAKp3BheWxvYWTESpcCWsQg/tK+VHReR1pALHVGdMx3I/0f8DqQz9+tVxnUdinHO2rEIJLe2S4HDo2qYHixeSs1K107Ec1k3aooiZKfmi1YpMtlAgHCo3NpZ8RA2Gv5fEEb/tzOUAhXmkJXnnLFb5v6M9+QsIo1qiNe/rGVDb1jV6CLwNvoLYbnFM2r+/l8wujnf6CYz7ukmg8DC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGCxGwzj+WZ5VrZZyT/HamS0E7fnyTRx6/akaS63vI4Uo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/perrymitchell
+
+==================================================================
